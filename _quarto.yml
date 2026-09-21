@@ -1,0 +1,100 @@
+lang: en
+project:
+  type: book
+  output-dir: docs
+  resources: resources
+execute:
+  freeze: auto
+book:
+  title: Data Skills
+  subtitle: ''
+  author:
+    - orcid: 0000-0001-5330-8242
+      name:
+        family: Checketts
+        given: Dr Matthew
+  doi: ''
+  license: CC-BY
+  description: Book Description
+  cover-image: images/logos/logo.png
+  image: images/logos/apple-touch-icon.png
+  favicon: images/logos/favicon.png
+  cookie-consent: false
+  google-analytics: "G-6NP3MF25W3"
+  page-navigation: true
+  search: true
+  downloads:
+  - pdf
+  - epub
+  sharing:
+  - twitter
+  - facebook
+  - linkedin
+  sidebar:
+    title: ''
+    logo: ''
+    search: true
+    contents: ''
+    style: floating
+    background: light
+    foreground: dark
+    border: true
+    alignment: left
+    collapse-level: 3
+    pinned: true
+    header: ''
+    footer: ''
+  margin-header: ''
+  page-footer: CC-BY-SA (2026) Matthew Checketts
+  chapters:
+  - index.qmd
+  - 01-intro.qmd
+  - 02-stroop.qmd
+  - 03-stroop-analysis.qmd
+  - 04-Homework-1.qmd
+  - 05-corsi.qmd
+  - 06-corsi-analysis.qmd
+  - 07-belonging.qmd
+  - 08-belonging-error.qmd
+  - 09-big-five.qmd
+  - 10-big-five-tidy.qmd
+  - 11-resilience1.qmd
+  - 12-resilience2.qmd
+  - 13-probability1.qmd
+  - 14-probability2.qmd
+  - 15-simulation.qmd
+  - 16-project.qmd
+  appendices:
+  - appendix-a-symbols.qmd
+  - appendix-b-glossary.qmd
+  - appendix-c-license.qmd
+
+bibliography: include/references.bib
+csl: include/apa.csl
+format:
+  html:
+    theme:
+      light:
+      - flatly
+      - include/light.scss
+      dark:
+      - darkly
+      - include/dark.scss
+    css:
+    - https://use.fontawesome.com/releases/v5.13.0/css/all.css
+    - include/booktem.css
+    - include/webex.css
+    - include/glossary.css
+    - include/style.css
+    df-print: kable
+    code-link: true
+    code-fold: false
+    code-line-numbers: true
+    code-overflow: wrap
+    code-copy: hover
+    highlight-style: a11y
+    mainfont: ''
+    monofont: ''
+    include-after-body:
+    - include/webex.js
+    - include/script.js

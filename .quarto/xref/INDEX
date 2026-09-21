@@ -1,0 +1,62 @@
+{
+  "index.qmd": {
+    "index.html": "996e215f"
+  },
+  "01-intro.qmd": {
+    "01-intro.html": "2bab8946"
+  },
+  "02-stroop.qmd": {
+    "02-stroop.html": "5aa8de81"
+  },
+  "03-stroop-analysis.qmd": {
+    "03-stroop-analysis.html": "fdf7fcda"
+  },
+  "04-Homework-1.qmd": {
+    "04-Homework-1.html": "2d347763"
+  },
+  "05-corsi.qmd": {
+    "05-corsi.html": "dc6d1902"
+  },
+  "06-corsi-analysis.qmd": {
+    "06-corsi-analysis.html": "a0566739"
+  },
+  "07-belonging.qmd": {
+    "07-belonging.html": "c2ab6310"
+  },
+  "08-belonging-error.qmd": {
+    "08-belonging-error.html": "4b4be74a"
+  },
+  "09-big-five.qmd": {
+    "09-big-five.html": "6e277b94"
+  },
+  "10-big-five-tidy.qmd": {
+    "10-big-five-tidy.html": "1f380e4d"
+  },
+  "11-resilience1.qmd": {
+    "11-resilience1.html": "37966a42"
+  },
+  "12-resilience2.qmd": {
+    "12-resilience2.html": "e1ae6243"
+  },
+  "13-probability1.qmd": {
+    "13-probability1.html": "4149226f"
+  },
+  "14-probability2.qmd": {
+    "14-probability2.html": "71dd0ebf"
+  },
+  "15-simulation.qmd": {
+    "15-simulation.html": "a2a9878c"
+  },
+  "16-project.qmd": {
+    "16-project.html": "b05cb27d"
+  },
+  "appendix-a-symbols.qmd": {
+    "appendix-a-symbols.html": "8f69da7a"
+  },
+  "appendix-b-glossary.qmd": {
+    "appendix-b-glossary.html": "b2a13d98"
+  },
+  "appendix-c-license.qmd": {
+    "appendix-c-license.html": "ae9a2951"
+  }
+}
